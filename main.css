@@ -38,7 +38,7 @@ li {
     --buttonColor: var(--green);
 }
 
-.btn {
+.mybtn {
     color: var(--buttonColor);
     position: absolute;
     top: 20px;
